@@ -13,7 +13,7 @@ d.xgboost
 e.KNN(K nearest neighbour)
 
 # techniques
-At 1st go for the visualization ,plot a pairplot by using seaborn library then you can make decesion
+At 1st go for the visualization ,draw a pairplot by using seaborn library then you can make decesion
 
 1. for linear dataset we use logistic regression and for non linear dataset we use decesion tree,random forest,xgboost,KNN(K nearest neighbour).
 
