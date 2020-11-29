@@ -1,2 +1,2 @@
-# some-techniques-to-choose-ML-Algorithm
+# some-techniques-to-choose-machine learning-algorithm
 How to choose ML Algorithm
