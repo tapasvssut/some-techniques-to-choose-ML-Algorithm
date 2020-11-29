@@ -15,7 +15,10 @@ e.KNN(K nearest neighbour)
 # techniques
 
 1 for linear dataset we use logistic regression and for non linear dataset we use decesion tree,random forest,xgboost,KNN(K nearest neighbour).
+
 2. We always trying to use logistic regression because it is require less time to execute as compare to others so when we have millions and millions data it will be helpful.
+
 3. if the datas are too much overlapping then we use KNN because in KNN there is a concept of euclidean distance to find out the similarity of points where it belongs to.
+
 4.Otherwise we can use decesion tree,random forest,xgboost.
 
